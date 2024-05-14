@@ -1,0 +1,14 @@
+<rss version="2.0">
+<channel>
+  <title>Ofertas de la semana</title>
+  <link>http://www.tusitio.com/ofertas_semana.xml</link>
+  <description>Las mejores ofertas de la semana.</description>
+  <item>
+    <title>Oferta 1</title>
+    <link>http://www.tusitio.com/ofertas/oferta1</link>
+    <description>Descripción de la oferta 1</description>
+    <pubDate>Wed, 1 May 2024 04:00:00 GMT</pubDate>
+    <enclosure url="http://www.tusitio.com/imagenes/oferta1.jpg" />
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,14 @@
+<rss version="2.0">
+<channel>
+  <title>Últimas noticias</title>
+  <link>http://www.tusitio.com/noticias.xml</link>
+  <description>Las últimas noticias de nuestra marca.</description>
+  <item>
+    <title>Noticia 1</title>
+    <link>http://www.tusitio.com/noticias/noticia1</link>
+    <description>Descripción de la noticia 1</description>
+    <pubDate>Wed, 01 May 2024 12:00:00 GMT</pubDate>
+    <enclosure url="http://www.tusitio.com/imagenes/noticia1.jpg" />
+  </item>
+</channel>
+</rss>
