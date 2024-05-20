@@ -1,14 +1,32 @@
 <rss version="2.0">
 <channel>
   <title>Ofertas de la semana</title>
-  <link>http://www.tusitio.com/ofertas_semana.xml</link>
+  <link>http://www.misitio.com/ofertas_semana.xml</link>
   <description>Las mejores ofertas de la semana.</description>
+
   <item>
     <title>Oferta 1</title>
-    <link>http://www.tusitio.com/ofertas/oferta1</link>
-    <description>Descripción de la oferta 1</description>
+    <link>http://www.misitio.com/ofertas/oferta1</link>
+    <description>Descripción de oferta 1</description>
     <pubDate>Wed, 1 May 2024 04:00:00 GMT</pubDate>
-    <enclosure url="http://www.tusitio.com/imagenes/oferta1.jpg" />
+    <img src="productos1.jpg"/>
   </item>
+
+  <item>
+    <title>Oferta 2</title>
+    <link>http://www.misitio.com/ofertas/oferta1</link>
+    <description>Descripción de oferta 2</description>
+    <pubDate>Wed, 1 May 2024 04:00:00 GMT</pubDate>
+    <img src="productos2.jpg"/>
+  </item>
+
+  <item>
+    <title>Oferta 3</title>
+    <link>http://www.misitio.com/ofertas/oferta3</link>
+    <description>Descripción de oferta 3</description>
+    <pubDate>Wed, 1 May 2024 04:00:00 GMT</pubDate>
+    <img src="productos3.jpg"/>
+  </item>
+
 </channel>
 </rss>
