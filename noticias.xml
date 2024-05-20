@@ -1,14 +1,33 @@
 <rss version="2.0">
 <channel>
   <title>Últimas noticias</title>
-  <link>http://www.tusitio.com/noticias.xml</link>
+  <link>http://www.misitio.com/noticias.xml</link>
   <description>Las últimas noticias de nuestra marca.</description>
+
   <item>
     <title>Noticia 1</title>
-    <link>http://www.tusitio.com/noticias/noticia1</link>
+    <link>http://www.misitio.com/noticias/noticia1</link>
     <description>Descripción de la noticia 1</description>
     <pubDate>Wed, 01 May 2024 12:00:00 GMT</pubDate>
-    <enclosure url="http://www.tusitio.com/imagenes/noticia1.jpg" />
+    <img src="noticia1.jpg"/>
   </item>
+
+  <item>
+    <title>Noticia 2</title>
+    <link>http://www.misitio.com/noticias/noticia2</link>
+    <description>Descripción de la noticia 2</description>
+    <pubDate>Wed, 01 May 2024 12:00:00 GMT</pubDate>
+    <img src="noticia2.jpg"/>
+  </item>
+
+  <item>
+    <title>Noticia 3</title>
+    <link>http://www.misitio.com/noticias/noticia3</link>
+    <description>Descripción de la noticia 3</description>
+    <pubDate>Wed, 01 May 2024 12:00:00 GMT</pubDate>
+    <img src="noticia3.jpg"/>
+  </item>
+
+
 </channel>
 </rss>
