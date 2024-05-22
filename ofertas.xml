@@ -1,32 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<channel>
-  <title>Ofertas de la semana</title>
-  <link>http://www.misitio.com/ofertas_semana.xml</link>
-  <description>Las mejores ofertas de la semana.</description>
+    <channel>
+        <title>Ofertas de Mi Sitio</title>
+        <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/</link>
+        <description>Últimas ofertas de nuestro sitio</description>
+        <language>es-es</language>
+        <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 22 May 2024 14:00:00 +0000</lastBuildDate>
+        <docs>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/ofertas.xml</docs>
+        <generator>GitHub Pages</generator>
 
-  <item>
-    <title>Oferta 1</title>
-    <link>http://www.misitio.com/ofertas/oferta1</link>
-    <description>Descripción de oferta 1</description>
-    <pubDate>Wed, 1 May 2024 04:00:00 GMT</pubDate>
-    <img src="productos1.jpg"/>
-  </item>
+        <item>
+            <title>Primera Oferta</title>
+            <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/primera-oferta</link>
+            <description>Esta es la primera oferta de nuestro feed RSS</description>
+            <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+            <img src="productos1.jpg"/>
+            <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/primera-oferta</guid>
+            <img src="productos1.jpg"/>
+        </item>
+        
+        <item>
+          <title>Segunda Oferta</title>
+          <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/segunda-oferta</link>
+          <description>Esta es la segunda oferta de nuestro feed RSS</description>
+          <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+          <img src="productos2.jpg"/>
+          <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/segunda-oferta</guid> 
+          <img src="productos2.jpg"/>
+        </item>
 
-  <item>
-    <title>Oferta 2</title>
-    <link>http://www.misitio.com/ofertas/oferta1</link>
-    <description>Descripción de oferta 2</description>
-    <pubDate>Wed, 1 May 2024 04:00:00 GMT</pubDate>
-    <img src="productos2.jpg"/>
-  </item>
+        <item>
+          <title>Tercera Oferta</title>
+          <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/tercera-oferta</link>
+          <description>Esta es la tercera oferta de nuestro feed RSS</description>
+          <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+          <img src="productos3.jpg"/>
+          <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/tercera-oferta</guid>
+          <img src="productos3.jpg"/>
+        </item>
 
-  <item>
-    <title>Oferta 3</title>
-    <link>http://www.misitio.com/ofertas/oferta3</link>
-    <description>Descripción de oferta 3</description>
-    <pubDate>Wed, 1 May 2024 04:00:00 GMT</pubDate>
-    <img src="productos3.jpg"/>
-  </item>
-
-</channel>
+        
+    </channel>
 </rss>
