@@ -1,12 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-  <title>Mi sitio web</title>
+    <meta charset="UTF-8">
+    <title>Sitio Web</title>
+    
+    <link rel="alternate" type="application/rss+xml" title="Feed de Noticias" href="noticias.xml">
+    <link rel="alternate" type="application/rss+xml" title="Feed de Ofertas" href="ofertas.xml">
 </head>
 <body>
-  <h1>Mi sitio web</h1>
+   <h1>Mi sitio web</h1>
   <p>Últimas ofertas y noticias.</p>
-  <p><a href="/rss/ofertas.xml" target="_blank"><img src="pic_rss.png" alt="RSS">Ofertas de la semana</a></p>
-  <p><a href="/rss/noticias.xml" target="_blank"><img src="pic_rss.png" alt="RSS">Últimas noticias</a></p>
+    <ul>
+        <li><a href="noticias.xml"><img src="pic_rss.png">Feed de Noticias</a></li>
+        <li><a href="ofertas.xml"><img src="pic_rss.png">Feed de Ofertas</a></li>
+    </ul>
 </body>
 </html>
+
