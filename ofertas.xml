@@ -7,13 +7,14 @@
         <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
         <category>Ofertas Verano</category>
         <category>Ofertas Invierno</category>
+        <docs>https://bobthecrab.github.io/A5.1/ofertas.xml</docs>
 
         <item>
           <title>Primera Oferta</title>
           <link>https://bobthecrab.github.io/A5.1/primera-oferta</link>
           <description>Esta es la primera oferta de nuestro feed RSS</description>
           <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
-          <enclosure url="https://bobthecrab.github.io/A5.1/productos1.jpg"/>
+          <enclosure url="https://bobthecrab.github.io/A5.1/ofertas1.jpg"/>
             
         </item>
         
@@ -22,7 +23,7 @@
           <link>https://bobthecrab.github.io/A5.1/segunda-oferta</link>
           <description>Esta es la segunda oferta de nuestro feed RSS</description>
           <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
-          <enclosure url="https://bobthecrab.github.io/A5.1/productos2.jpg"/>
+          <enclosure url="https://bobthecrab.github.io/A5.1/ofertas2.jpg"/>
           
         </item>
 
@@ -31,7 +32,7 @@
           <link>https://bobthecrab.github.io/A5.1/tercera-oferta</link>
           <description>Esta es la tercera oferta de nuestro feed RSS</description>
           <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
-          <enclosure url="https://bobthecrab.github.io/A5.1/productos3.jpg"/>
+          <enclosure url="https://bobthecrab.github.io/A5.1/ofertas3.jpg"/>
           
         </item>
 
