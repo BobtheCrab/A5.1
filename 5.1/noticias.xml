@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Mi Sitio</title>
+        <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/</link>
+        <description>Últimas noticias de nuestro sitio</description>
+        <language>es-es</language>
+        <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 22 May 2024 14:00:00 +0000</lastBuildDate>
+        <docs>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/noticias.xml</docs>
+        <generator>GitHub Pages</generator>
+
+        <item>
+            <title>Primer Noticia</title>
+            <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/primer-noticia</link>
+            <description>Esta es la primera noticia de nuestro feed RSS</description>
+            <author>autor@tusitio.com (Autor)</author>
+            <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+            <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/primer-noticia</guid>
+            <img src="noticia1.jpg"/>
+        </item>
+
+        <item>
+          <title>Segundo Noticia</title>
+          <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/segunda-noticia</link>
+          <description>Esta es la segunda noticia de nuestro feed RSS</description>
+          <author>autor@tusitio.com (Autor)</author>
+          <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+          <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/segunda-noticia</guid>
+          <img src="noticia2.jpg"/>
+        </item>
+        
+        <item>
+          <title>Tercera Noticia</title>
+          <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/tercera-noticia</link>
+          <description>Esta es la tercera noticia de nuestro feed RSS</description>
+          <author>autor@tusitio.com (Autor)</author>
+          <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+          <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/tercera-noticia</guid>
+          <img src="noticia3.jpg"/>
+      </item>
+        
+    </channel>
+</rss>
