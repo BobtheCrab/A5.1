@@ -8,27 +8,29 @@
         <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
         <category>Tecnología</category>
         <category>Actualidad</category>
+        <docs>https://bobthecrab.github.io/A5.1/noticias.xml</docs>
 
         <item>
             <title>Primer Noticia</title>
             <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/primer-noticia</link>
             <description>Esta es la primera noticia de nuestro feed RSS</description> 
             <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
-            <enclosure url="https://bobthecrab.github.io/A5.1/noticia1.jpg"/>
+            <enclosure url="https://bobthecrab.github.io/A5.1/prodcutos1.jpg"/>
         </item>
 
         <item>
           <title>Segundo Noticia</title>
           <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/segunda-noticia</link>
           <description>Esta es la segunda noticia de nuestro feed RSS</description>
-          <enclosure url="https://bobthecrab.github.io/A5.1/noticia2.jpg"/>
+          <enclosure url="https://bobthecrab.github.io/A5.1/prodcutos2.jpg"/>
         </item>
         
         <item>
           <title>Tercera Noticia</title>
           <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/tercera-noticia</link>
           <description>Esta es la tercera noticia de nuestro feed RSS</description>
-          <enclosure url="https://bobthecrab.github.io/A5.1/noticia3.jpg"/>
+          <enclosure url="https://bobthecrab.github.io/A5.1/prodcutos3.jpg"/>
       </item>
     </channel>
 </rss>
+
