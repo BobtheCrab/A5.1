@@ -2,39 +2,37 @@
 <rss version="2.0">
     <channel>
         <title>Ofertas de Mi Sitio</title>
-        <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/</link>
+        <link>https://bobthecrab.github.io/A5.1</link>
         <description>Últimas ofertas de nuestro sitio</description>
-        <language>es-es</language>
         <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
-        <lastBuildDate>Wed, 22 May 2024 14:00:00 +0000</lastBuildDate>
-        <docs>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/ofertas.xml</docs>
-        <generator>GitHub Pages</generator>
+        <category>Ofertas Verano</category>
+        <category>Ofertas Invierno</category>
 
         <item>
-            <title>Primera Oferta</title>
-            <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/primera-oferta</link>
-            <description>Esta es la primera oferta de nuestro feed RSS</description>
-            <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
-            <img src="productos1.jpg"/>
-            <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/primera-oferta</guid>
+          <title>Primera Oferta</title>
+          <link>https://bobthecrab.github.io/A5.1/primera-oferta</link>
+          <description>Esta es la primera oferta de nuestro feed RSS</description>
+          <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
+          <enclosure url="https://bobthecrab.github.io/A5.1/productos1.jpg"/>
+            
         </item>
         
         <item>
           <title>Segunda Oferta</title>
-          <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/segunda-oferta</link>
+          <link>https://bobthecrab.github.io/A5.1/segunda-oferta</link>
           <description>Esta es la segunda oferta de nuestro feed RSS</description>
           <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
-          <img src="productos2.jpg"/>
-          <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/segunda-oferta</guid> 
+          <enclosure url="https://bobthecrab.github.io/A5.1/productos2.jpg"/>
+          
         </item>
 
         <item>
           <title>Tercera Oferta</title>
-          <link>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/tercera-oferta</link>
+          <link>https://bobthecrab.github.io/A5.1/tercera-oferta</link>
           <description>Esta es la tercera oferta de nuestro feed RSS</description>
           <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
-          <img src="productos3.jpg"/>
-          <guid>https://bobthecrab.github.io/A5.1---Sindicaci-n-de-contenidos/tercera-oferta</guid>
+          <enclosure url="https://bobthecrab.github.io/A5.1/productos3.jpg"/>
+          
         </item>
 
         
